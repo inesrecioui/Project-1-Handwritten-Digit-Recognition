@@ -11,13 +11,6 @@ The models implemented are:
 2. **Complex Neural Network**
 3. **Neural Network with Dropout**
 
-## Project Structure
-
-- **`models.py`:** Contains the definitions of the neural network models using PyTorch.
-- **`train.py`:** Code to train and evaluate the models on the MNIST dataset.
-- **`requirements.txt`:** List of required Python libraries for reproducing the environment.
-- **`README.md`:** Project overview, instructions, and observations.
-
 ## Training and Evaluation
 - Run train.py to train and evaluate all three models on the MNIST dataset. This script includes training loops, prints test accuracy, and plots training and test losses.
 
