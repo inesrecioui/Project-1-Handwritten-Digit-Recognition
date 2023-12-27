@@ -18,13 +18,6 @@ The models implemented are:
 - **`requirements.txt`:** List of required Python libraries for reproducing the environment.
 - **`README.md`:** Project overview, instructions, and observations.
 
-## Usage
-
-### Environment Setup
-1. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   
 ## Training and Evaluation
 - Run train.py to train and evaluate all three models on the MNIST dataset. This script includes training loops, prints test accuracy, and plots training and test losses.
 
