@@ -12,7 +12,7 @@ The models implemented are:
 3. **Neural Network with Dropout**
 
 ## Training and Evaluation
-- Run train.py to train and evaluate all three models on the MNIST dataset. This script includes training loops, prints test accuracy, and plots training and test losses.
+- Run the code to train and evaluate all three models on the MNIST dataset. This script includes training loops, prints test accuracy, and plots training and test losses.
 
 ## Observations
 1. Model Complexity: Observe differences in performance and training time between the simple and complex neural networks.
